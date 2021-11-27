@@ -1,0 +1,7 @@
+Requerimiento
+Obtener los nombres de quieren son captutados
+Listar y reconocer en grupo a cada uno de los reconocisos
+Esto se queda en el archivo preentrano
+
+Referencia
+https://github.com/knight19720208ui/AI/blob/main/entrenarImagenes.py
