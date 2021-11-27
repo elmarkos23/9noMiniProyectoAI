@@ -38,7 +38,7 @@ Proyecto de reconocimiento de rostros
 
 # Resultados:
  - Toma de información
- 
+ ![Test Image 3](resultados/1.png)
  - Entrenamiento
  
  - Recocimientos
