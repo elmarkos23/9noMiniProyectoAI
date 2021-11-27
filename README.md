@@ -37,8 +37,10 @@ Proyecto de reconocimiento de rostros
  - Ejecutar el tercer archivo (3 probarImagenes.py) el resultado de reconocimiento en forma virtual con la camara y los rostros que se muestren sean reconocibles.
 
 # Resultados:
- - Toma de información
- ![Test Image 3](resultados/1.png)
- - Entrenamiento
- 
- - Recocimientos
+
+ ##Toma de información
+ ![Test Image 1](resultados/1.png)
+ ##Entrenamiento
+ ![Test Image 2](resultados/2.png)
+ ##Recocimientos
+ ![Test Image 3](resultados/3.png)
